@@ -1,16 +1,13 @@
-## Hi there 👋
+## Boas Vindas ao meu perfil 💙 👋
 
-<!--
-**karlos6949/Karlos6949** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Karlos Henrique
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br/);
+- Estou melhorando na linguagem Javascript;
+- Sou aluno da 3 série do Ensino Médio
+- Aulas de Tecnologia e robótica
+  
+### Você pode entrar em contato comigo📧
+00001095793251sp@al.educacao.sp.gov.br 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://media1.tenor.com/m/7GyHsInT8uoAAAAC/naruto.gif)
